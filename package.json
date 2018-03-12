@@ -9,6 +9,7 @@
   "author": "Douglas Tyler Gordon",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.16.3",
     "websocket": "^1.0.25"
   }
 }
