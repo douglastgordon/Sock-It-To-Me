@@ -1,0 +1,14 @@
+{
+  "name": "sock-it-to-me",
+  "version": "1.0.0",
+  "description": "Websocket Experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Tyler Gordon",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "^1.0.25"
+  }
+}
